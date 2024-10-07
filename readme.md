@@ -1,6 +1,6 @@
 # Mini Aplicación de Preferencias de Usuario
 
-![Logo de la aplicación](images/logo.svg)
+![Logo de la aplicación](images/logo.png)
 
 Esta es una pequeña aplicación web que demuestra la gestión de preferencias de usuario, incluyendo autenticación básica y personalización de la interfaz.
 
